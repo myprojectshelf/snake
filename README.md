@@ -32,5 +32,5 @@ Technical Goals for this specific Application:
 ---
 
 <div align="center">
-<sub>MoodMap - Keeping track of YOUR mood.</sub>
+<sub>MyProjectShelf - Snake</sub>
 </div>
