@@ -3,6 +3,8 @@
 # Snake
 ### My version of the 2D Game Snake (Old School Version)
 
+[![Try now!](https://img.shields.io/badge/Try%20now%20!-ffffff?style=for-the-badge&color=f99e00)](http://moodmap.guacamoleboy.dk/devlog)
+
 Trying to learn TypeScript - by creating a lot of different applications.\
 \
 Technical Goals for this specific Application:
@@ -14,8 +16,6 @@ Technical Goals for this specific Application:
 - Working with organizations on Github
 - Assets & Animations for Browsers
 - Optimization & Generic Components
-
-[![Try now!](https://img.shields.io/badge/Try%20now%20!-ffffff?style=for-the-badge&color=f99e00)](http://moodmap.guacamoleboy.dk/devlog)
 
 </div>
 
