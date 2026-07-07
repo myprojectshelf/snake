@@ -32,5 +32,5 @@ Technical Goals for this specific Application:
 ---
 
 <div align="center">
-<sub>MyProjectShelf - Snake</sub>
+<sub>MyProjectShelf - Snake - Created by Guacamoleboy</sub>
 </div>
