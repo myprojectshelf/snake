@@ -1,7 +1,9 @@
 <div align="LEFT">
 
 # Snake
-**My version of the 2D Game Snake (Old School Version)**
+### My version of the 2D Game Snake (Old School Version)
+
+Trying to learn TypeScript - by creating a lot of different applications.
 
 [![Try now!](https://img.shields.io/badge/Try%20now%20!-ffffff?style=for-the-badge&color=f99e00)](http://moodmap.guacamoleboy.dk/devlog)
 
