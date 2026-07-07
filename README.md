@@ -5,8 +5,8 @@
 
 Trying to learn TypeScript - by creating a lot of different applications.\
 \
-Technical Goals for this specific Application:\
-\
+Technical Goals for this specific Application:
+
 - UI / UX Feel
 - Controlled / Uncontrolled Components
 - TypeScript, Vite & React Non-SPA Architecture
