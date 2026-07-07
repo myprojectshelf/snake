@@ -1,0 +1,30 @@
+.backWrapper {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: -78px;
+    bottom: -4px;
+    width: 60px;
+    height: 60px;
+    border: 4px solid var(--snake-game-border);
+    border-radius: 0.25rem;
+    box-shadow: 0 8px 1px rgba(0, 0, 0, 0.7);
+    background-color: #e3a12f;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+}
+
+.backWrapper i { 
+    color: #313131;
+}
+
+.backWrapper:hover {
+    transform: translateY(3px);
+    box-shadow: 0 5px 1px rgba(0, 0, 0, 0.7);
+    background-color: #be9041;
+}
+
+.backWrapper:hover i {
+    color: #e8e8e8;
+}

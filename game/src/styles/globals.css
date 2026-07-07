@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Equilibrium";
+    src: url("/fonts/equilibrium.woff2") format("woff2"),
+         url("/fonts/equilibrium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+
+    /* Game Theme */
+    --snake-background: #ffb217;
+    --snake-text: #202020;
+    --snake-header: #151515;
+    --snake-game-border: #e3b970;
+    
+    /* Game Colors */
+    --snake-fail: #ff0000;
+    --snake-success: #008000;
+    --snake-error: #ffa500;
+
+    /* Fonts */
+    --snake-font: "Equilibrium", sans-serif;
+
+}
+
+html, body {
+    background-color: var(--snake-background);
+    font-family: var(--snake-font);
+    color: var(--snake-text);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
